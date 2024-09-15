@@ -1,0 +1,14 @@
+
+#general moduls
+django
+backports.zoneinfo;python_version<"3.9"
+python-decouple
+pillow
+djangorestframework
+
+
+
+#third-party moduls
+markdown
+django-filter
+drf-yasg[validation]
